@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIR Application</title>
+    <style>
+        body {
+            background-image: url("https://i.pinimg.com/736x/2f/b5/44/2fb54499563c33ab21fd3bc7a44bb165.jpg");
+            background-size: cover; 
+            background-repeat: no-repeat; 
+            background-position: center; 
+            background-attachment: fixed; 
+            margin: 0; 
+            height: 100vh;
+            font-family: 'Roboto', sans-serif;
+            text-align: center;
+            padding: 50px;
+            color: rgb(34, 10, 98);
+            font-style: italic;
+        }
+        .welcome-box {
+            background-color: rgba(255, 255, 255, 0.8); /* White with slight transparency */
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            margin: auto;
+        }
+        .button {
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background-color 0.3s; 
+        }
+        .button:hover {
+            background-color: #45a049; 
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 20px;
+            }
+            .button {
+                font-size: 16px;
+                padding: 8px 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 font-family='Montserrat', sans-serif;>Welcome to the FIR Application Portal</h1>
+    <div class="welcome-box">
+        <p>
+            We are here to assist you in filing a First Information Report (FIR) easily and efficiently. 
+            This online platform allows you to submit your FIR application from the comfort of your home.
+            <br><br>
+            Our goal is to streamline the process, ensuring that your concerns are addressed swiftly. 
+            Please provide accurate information to facilitate a prompt response from the authorities.
+            <br><br>
+            If you have any questions, feel free to reach out to our support team.
+        </p>
+        <button class="button" onclick="location.href='fir-form.html'">Apply for FIR</button>
+    </div>
+</body>
+</html>
