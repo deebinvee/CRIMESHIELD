@@ -1,0 +1,47 @@
+[
+  {
+    "fir_no": "1234",
+    "ipc_section": "Section 376",
+    "fir_date": "2023-10-21",
+    "fir_time": "10:00",
+    "offence_date": "2023-10-20",
+    "offence_time": "09:00",
+    "complainant_name": "John Doe",
+    "address": "123 Main St",
+    "district": "Sample District",
+    "taluk": "Sample Taluk",
+    "age": 30,
+    "nationality": "Indian",
+    "valuables_stolen": "Laptop, Phone"
+  },
+  {
+    "fir_no": "1234",
+    "ipc_section": "Section 376",
+    "fir_date": "2023-10-21",
+    "fir_time": "10:00",
+    "offence_date": "2023-10-20",
+    "offence_time": "09:00",
+    "complainant_name": "John Doe",
+    "address": "123 Main St",
+    "district": "Sample District",
+    "taluk": "Sample Taluk",
+    "age": 30,
+    "nationality": "Indian",
+    "valuables_stolen": "Laptop, Phone"
+  },
+  {
+    "fir_no": "1234",
+    "ipc_section": "Section 376",
+    "fir_date": "2023-10-21",
+    "fir_time": "10:00",
+    "offence_date": "2023-10-20",
+    "offence_time": "09:00",
+    "complainant_name": "John Doe",
+    "address": "123 Main St",
+    "district": "Sample District",
+    "taluk": "Sample Taluk",
+    "age": 30,
+    "nationality": "Indian",
+    "valuables_stolen": "Laptop, Phone"
+  }
+]
